@@ -1,2 +1,2 @@
 # 100_Prisoners_Problem
-선택과제 2번 - 100 Prisoners Problem
+선택과제 1번 - 100 Prisoners Problem
